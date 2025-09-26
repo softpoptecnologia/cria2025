@@ -1,1 +1,8 @@
+# venv local do backend
 backend/.venv/
+
+# cache Python
+backend/__pycache__/
+
+# arquivos de ambiente
+backend/.env
